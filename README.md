@@ -1,11 +1,13 @@
 ***Educational Background:*** Currently pursuing a high school education with a strong focus on STEM subjects, aiming to build a foundation in technology and engineering.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***Participation in Extracurricular Activities:***
   
   Boy Scouts (First Class): Actively engaged in Boy Scouts, demonstrating skills in leadership, teamwork, and outdoorsmanship. Aiming for Eagle, reflecting dedication and proficiency in scouting principles.
   
   Student Council Member: Involved in the Student Council, contributing to school event planning, showcasing abilities in community engagement.
-
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***Areas of Interest & Hobbies:***
   
   Programming & Coding: Proficient in C++, C#, and HTML, with a keen interest in developing coding skills for practical and creative applications.
@@ -16,8 +18,10 @@
   
   Game Development & 3D Design: Actively exploring game development and 3D design, combining creative talents with technical skills to create engaging digital experiences.
   
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Internships/Work Experience:*** Currently seeking opportunities for internships or work experiences that align with my interests in engineering and computer science.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***Career Aspirations:***
   
   Electrical Engineer: Aspiring to innovate in the field of electrical engineering, with a focus on developing new technologies and systems.
