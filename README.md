@@ -10,7 +10,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***Areas of Interest & Hobbies:***
   
-  Programming & Coding: Proficient in C++, C#, and HTML, with a keen interest in developing coding skills for practical and creative applications.
+  Programming & Coding: Improving my skills in C++, C#, and HTML, with a keen interest in developing coding skills for practical and creative applications.
   
   Electronics & Electrical Engineering: Enthusiastic about electronics with a focus on electrical engineering principles, demonstrating a hands-on approach to learning and experimentation.
   
