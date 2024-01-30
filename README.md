@@ -17,7 +17,7 @@ Internships/Work Experience: Currently seeking opportunities for internships or 
 Career Aspirations:
   
   Electrical Engineer: Aspiring to innovate in the field of electrical engineering, with a focus on developing new technologies and systems.
-  Automotive Engineer: Interested in automotive engineering, aiming to contribute to advancements in vehicle technology and sustainable transport solutions.
+  Automotive Engineer: Interested in automotive engineering, aiming to contribute to advancements in vehicle technology.
   Computer Hardware Engineer: Keen to explore the intricacies of computer hardware design and development, with an ambition to create cutting-edge computing solutions.
   Computer Network Architect: Fascinated by the architecture of computer networks, aspiring to design and implement efficient and secure network infrastructures.
   Computer Programmer & Software Developer: Passionate about programming and software development, aiming to create impactful software solutions and applications.
