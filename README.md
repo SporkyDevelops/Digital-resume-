@@ -1,4 +1,4 @@
-***Educational Background:*** Currently pursuing a high school education with a strong focus on STEM subjects, aiming to build a foundation in technology and engineering.
+***Educational Background:*** Currently pursuing a high school education at a middle college highschool with a strong focus on STEM subjects, aiming to build a foundation in technology and engineering.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***Participation in Extracurricular Activities:***
